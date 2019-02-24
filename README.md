@@ -1,4 +1,4 @@
-# DC3
+# DC3: Deconvolution and coupled clustering from bulk and single cell genomics data
 
 ## Introduction
 With the rapid development of single-cell genomics technology, researchers are now able to study heterogeneous mixtures of cell populations. 
