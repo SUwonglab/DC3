@@ -1,4 +1,4 @@
-# dcHiChIP
+# DC3
 
 ## Introduction
 With the rapid development of single-cell genomics technology, researchers are now able to study heterogeneous mixtures of cell populations. 
@@ -21,7 +21,7 @@ For preprocessing the scATAC-seq data, please first put all the .bam files for e
 For preprocessing the HiChIP data, please restrict HiChIP enhancer-promoter interactions in the genes in scRNA-seq data and enhancers in scATAC-seq data. The first column indicates the index of gene, the second column indicates the index of enhancer, the third column indicates the HiChIP loop counts. We recommend use HiC-pro and hichipper to preprocess the HiChIP data. 
 
 
-## Running dcHiChIP
+## Running DC3
 **dcHiChIP receives 8 parameters:**
 
 * -k         the clustering numbers
