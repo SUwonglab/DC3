@@ -43,7 +43,7 @@ For preprocessing the HiChIP data, please restrict HiChIP enhancer-promoter inte
 Note:-k, -O, -E, -G_symbol, -E_symbol, -hichip are the must-have parameters; 
 -lambda1, -lamdba2 are optional parameters. If dcHiChIP does not receive -lambda1 and -lambda2, it will choose the best parameters automatically.
 
-**dcHiChIP outputs 4 files:**
+**DC3 outputs 4 files:**
 
 * scATAC-result.txt                       the clustering results for scATAC-seq
 
